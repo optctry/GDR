@@ -8,7 +8,7 @@ var myimages = [
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0125.png", probability: 0.02226},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0126.png", probability: 0.02226},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0127.png", probability: 0.02226},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0128.png", probability: 0.0222602226},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0128.png", probability: 0.02226},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0129.png", probability: 0.02226},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0130.png", probability: 0.02226},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0136.png", probability: 0.02226},
