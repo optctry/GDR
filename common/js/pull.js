@@ -45,7 +45,7 @@ var myimages = [
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0135.png", probability: 0.02084}, 
 // Mob fino a Smoker
 // Personaggi unici rimasti
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0260.png", probability: 0.00768},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0260.png", probability: 0.00804},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0027.png", probability: 0.02500},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0061.png", probability: 0.02500},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0062.png", probability: 0.02500},
