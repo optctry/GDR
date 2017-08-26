@@ -51,7 +51,6 @@ var myimages = [
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0241.png", probability: 0.01900}, 
 // Mob fino a Laboon
 // Personaggi unici rimasti
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0260.png", probability: 0.00750},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0339.png", probability: 0.02500},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0336.png", probability: 0.02500},
 ];
