@@ -12,17 +12,16 @@ var myimages = [
   { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0237.png", probability: 0.00000},
   
 //qck 
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0127.png", probability: 0.09090},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0122.png", probability: 0.09090},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0132.png", probability: 0.09090},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0137.png", probability: 0.09090},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0164.png", probability: 0.09090},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0166.png", probability: 0.09090},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0167.png", probability: 0.09090},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0172.png", probability: 0.09090},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0177.png", probability: 0.09090},
-  { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0181.png", probability: 0.09090},
-  { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0239.png", probability: 0.09100},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0127.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0122.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0132.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0137.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0164.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0167.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0172.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0177.png", probability: 0.00000},
+  { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0181.png", probability: 0.00000},
+  { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0239.png", probability: 0.00000},
   
   
 //dex
@@ -32,11 +31,12 @@ var myimages = [
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0133.png", probability: 0.00000},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0138.png", probability: 0.00000},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0163.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0166.png", probability: 0.09090},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0171.png", probability: 0.00000},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0176.png", probability: 0.00000},
- { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0180.png", probability: 0.00000},
-  { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0215.png", probability: 0.00000},
-  { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0238.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0180.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0215.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0238.png", probability: 0.00000},
   
   
   
