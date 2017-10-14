@@ -67,14 +67,14 @@ var myimages = [
 
 
 // Personaggi unici rimasti
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0407.png", probability: 50.00000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0425.png", probability: 50.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0407.png", probability: 0.50000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0425.png", probability: 0.50000},
 ];
 
 function getImage() {
   var rand = Math.random();
   var probabilitiy_sum = 0;
-  for (var i = 0; i < myimages.length; i++) {
+  for (var i = 0; i < myimages.length) {
     probabilitiy_sum += myimages[i].probability;
     if (rand <= probabilitiy_sum) {
       return myimages[i].image;
@@ -83,6 +83,6 @@ function getImage() {
   return myimages[myimages.length].image;
 }
 
-for (var i = 0; i < 100; i++) {
+for (var i = 0; i < 1) {
   document.write('<img id="textbox" src="' + getImage() +'" border=0>');
 }
