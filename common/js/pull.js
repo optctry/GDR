@@ -1,15 +1,18 @@
 var myimages = [
+// Mob fino a Whiskey Peak
+
 //Str
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0120.png", probability: 0.10000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0121.png", probability: 0.10000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0126.png", probability: 0.10000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0131.png", probability: 0.10000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0136.png", probability: 0.10000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0165.png", probability: 0.10000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0170.png", probability: 0.10000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0175.png", probability: 0.10000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0179.png", probability: 0.10000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0237.png", probability: 0.10000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0120.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0121.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0126.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0131.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0136.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0165.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0170.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0175.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0179.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0237.png", probability: 0.00000},
+  
   
 //qck 
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0127.png", probability: 0.00000},
@@ -39,18 +42,17 @@ var myimages = [
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0238.png", probability: 0.00000},
   
   
-  
 //psy
-
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0124.png", probability: 0.00000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0129.png", probability: 0.00000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0134.png", probability: 0.00000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0139.png", probability: 0.00000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0168.png", probability: 0.00000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0173.png", probability: 0.00000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0178.png", probability: 0.00000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0182.png", probability: 0.00000},
-{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0240.png", probability: 0.00000},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0124.png", probability: 0.11111},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0129.png", probability: 0.11111},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0134.png", probability: 0.11111},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0139.png", probability: 0.11111},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0168.png", probability: 0.11111},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0173.png", probability: 0.11111},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0178.png", probability: 0.11111},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0182.png", probability: 0.11111},
+{ image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0240.png", probability: 0.11111},
+  
   
 //int
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0125.png", probability: 0.00000},
@@ -63,7 +65,7 @@ var myimages = [
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0183.png", probability: 0.00000},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0241.png", probability: 0.00000},
 
-// Mob fino a Whiskey Peak
+
 // Personaggi unici rimasti
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0407.png", probability: 0.00000},
 { image: "http://onepiece-treasurecruise.com/wp-content/uploads/f0425.png", probability: 0.00000},
