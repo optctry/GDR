@@ -1,30 +1,30 @@
 var myimages =[
 // Mob fino a Whiskey Peak
 
-//Str
-{ image: "0120", probability: 0.04507},
-{ image: "0121", probability: 0.04507},
-{ image: "0126", probability: 0.04507},
-{ image: "0131", probability: 0.04507},
-{ image: "0136", probability: 0.04507},
-{ image: "0165", probability: 0.04507},
-{ image: "0170", probability: 0.04507},
-{ image: "0175", probability: 0.04507},
-{ image: "0179", probability: 0.04507},
-{ image: "0237", probability: 0.04507},
+//Str  10
+{ image: "0120", probability: 0.01400},
+{ image: "0121", probability: 0.01400},
+{ image: "0126", probability: 0.01400},
+{ image: "0131", probability: 0.01400},
+{ image: "0136", probability: 0.01400},
+{ image: "0165", probability: 0.01400},
+{ image: "0170", probability: 0.01400},
+{ image: "0175", probability: 0.01400},
+{ image: "0179", probability: 0.01400},
+{ image: "0237", probability: 0.01400},
   
   
-//qck 
-{ image: "0127", probability: 0.01372},
-{ image: "0122", probability: 0.01372},
-{ image: "0132", probability: 0.01372},
-{ image: "0137", probability: 0.01372},
-{ image: "0164", probability: 0.01372},
-{ image: "0167", probability: 0.01372},
-{ image: "0172", probability: 0.01372},
-{ image: "0177", probability: 0.01372},
-{ image: "0181", probability: 0.01372},
-{ image: "0239", probability: 0.01372},
+//qck 10
+{ image: "0127", probability: 0.01400},
+{ image: "0122", probability: 0.01400},
+{ image: "0132", probability: 0.01400},
+{ image: "0137", probability: 0.01400},
+{ image: "0164", probability: 0.01400},
+{ image: "0167", probability: 0.01400},
+{ image: "0172", probability: 0.01400},
+{ image: "0177", probability: 0.01400},
+{ image: "0181", probability: 0.01400},
+{ image: "0239", probability: 0.01400},
   
   
 //dex  12
@@ -55,15 +55,15 @@ var myimages =[
   
   
 //int  9
-{ image: "0125", probability: 0.03777},
-{ image: "0130", probability: 0.03777},
-{ image: "0135", probability: 0.03777},
-{ image: "0140", probability: 0.03777},
-{ image: "0141", probability: 0.03777},
-{ image: "0169", probability: 0.03777},
-{ image: "0174", probability: 0.03777},
-{ image: "0183", probability: 0.03777},
-{ image: "0241", probability: 0.03777},
+{ image: "0125", probability: 0.02223},
+{ image: "0130", probability: 0.02223},
+{ image: "0135", probability: 0.02223},
+{ image: "0140", probability: 0.02223},
+{ image: "0141", probability: 0.02223},
+{ image: "0169", probability: 0.02223},
+{ image: "0174", probability: 0.02223},
+{ image: "0183", probability: 0.02223},
+{ image: "0241", probability: 0.02223},
 
 
 // Personaggi unici rimasti
