@@ -75,7 +75,7 @@ var myimages =[
 { image: "0387", probability: 0.01000},
 { image: "0055",  probability: 0.01000},
 { image: "0071", probability: 0.01000},
-{ image: "0061”, probability: 0.01000},
+{ image: "0061", probability: 0.01000},
 { image: "0064", probability: 0.01000},
 { image: "0067", probability: 0.01000},
 { image: "0319", probability: 0.01000},
