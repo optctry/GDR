@@ -75,7 +75,7 @@
 { image: "0387", probability: 0.00750},
 { image: "0055",  probability: 0.00750},
 { image: "0071", probability: 0.00750},
-{ image: "0061”, probability: 0.00750},
+{ image: "0061", probability: 0.00750},
 { image: "0064", probability: 0.00750},
 { image: "0067", probability: 0.00750},
 { image: "0319", probability: 0.00750},
