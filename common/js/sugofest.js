@@ -73,7 +73,7 @@ var myimages =[
 { image: "0216", probability: 0.01000},
 { image: "0809", probability: 0.01000},
 { image: "0387", probability: 0.01000},
-{ image: "0055",  probability: 0.01000},
+{ image: "0055", probability: 0.01000},
 { image: "0071", probability: 0.01000},
 { image: "0061", probability: 0.01000},
 { image: "0064", probability: 0.01000},
@@ -81,6 +81,8 @@ var myimages =[
 { image: "0319", probability: 0.01000},
 { image: "0062", probability: 0.01000},
 { image: "0262", probability: 0.01000},
+{ image: "0407", probability: 0.02500},
+{ image: "0425", probability: 0.02500},
 
 // Legend
 { image: "0260", probability: 0.00500},
