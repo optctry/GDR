@@ -66,25 +66,6 @@ var myimages =[
 
 
 // Personaggi unici rimasti
-{ image: "0407", probability: 0.01700},
-{ image: "0425", probability: 0.01700},
-{ image: "0015", probability: 0.01700},
-{ image: "0052", probability: 0.01700},
-{ image: "0231", probability: 0.01700},
-{ image: "0069", probability: 0.01700},
-{ image: "0216", probability: 0.01700},
-{ image: "0809", probability: 0.01700},
-{ image: "0387", probability: 0.01700},
-{ image: "0055", probability: 0.01700},
-{ image: "0071", probability: 0.01700},
-{ image: "0061", probability: 0.01700},
-{ image: "0064", probability: 0.01700},
-{ image: "0067", probability: 0.01700},
-{ image: "0319", probability: 0.01700},
-{ image: "0062", probability: 0.01700},
-{ image: "0062", probability: 0.01700},
-{ image: "0262", probability: 0.01700},
-{ image: "0260", probability: 0.00700},
 ];
 
 
